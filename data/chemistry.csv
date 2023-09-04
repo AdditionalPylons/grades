@@ -1,0 +1,29 @@
+FIRST,LAST,SUBJECT,ASSIGNMENT_NO,ASSIGNMENT_DESC,GRADE,MAKEUP,DATE_DUE,DATE_SUBMIT
+Bill,Edwards,chemistry,1,ATMC NMBRS,1,False,2023-01-01,2023-01-15
+Bill,Edwards,chemistry,1,ATMC NMBRS,13,True,2023-01-01,2023-01-16
+David,Chen,chemistry,1,ATMC NMBRS,68,False,2022-01-01,2022-01-01
+David,Chen,chemistry,1,ATMC NMBRS,62,True,2022-01-01,2022-01-15
+William,Chen,chemistry,1,ATMC NMBRS,65,False,2022-01-01,2022-01-01
+William,Chen,chemistry,1,ATMC NMBRS,62,True,2022-01-01,2022-01-15
+Rafferty,Russell,chemistry,1,ATMC NMBRS,98,False,2022-01-01,2022-01-01
+Rafferty,Russell,chemistry,1,ATMC NMBRS,90,True,2022-01-01,2022-01-15
+Jason,Ramirez,chemistry,1,ATMC NMBRS,43,False,2023-01-01,2023-01-01
+Jason,Ramirez,chemistry,1,ATMC NMBRS,13,True,2023-01-01,2023-01-15
+Fred,Fernando,chemistry,1,ATMC NMBRS,97,False,2022-01-01,2022-01-01
+Fred,Fernando,chemistry,1,ATMC NMBRS,91,True,2022-01-01,2022-01-15
+杨作亮,AlexYang,chemistry,1,ATMC NMBRS,58,False,2023-01-01,2023-01-01
+杨作亮,AlexYang,chemistry,1,ATMC NMBRS,0,True,2023-01-01,2023-01-02
+Bill,Edwards,chemistry,2,PLYMER & ALDEHYDE,34,False,2023-01-01,2023-01-01
+David,Chen,chemistry,2,PLYMER & ALDEHYDE,64,False,2023-01-01,2023-01-01
+William,Chen,chemistry,2,PLYMER & ALDEHYDE,67,False,2022-01-01,2022-01-15
+Rafferty,Russell,chemistry,2,PLYMER & ALDEHYDE,98,False,2022-01-01,2022-01-15
+Jason,Ramirez,chemistry,2,PLYMER & ALDEHYDE,12,False,2023-01-01,2023-01-15
+Fred,Fernando,chemistry,2,PLYMER & ALDEHYDE,97,False,2022-01-01,2022-01-01
+杨作亮,AlexYang,chemistry,2,PLYMER & ALDEHYDE,42,False,2022-01-01,2022-01-01
+Bill,Edwards,chemistry,3,ELECTRON CONFIG,13,False,2023-01-01,2023-01-01
+David,Chen,chemistry,3,ELECTRON CONFIG,68,False,2022-01-01,2022-01-15
+William,Chen,chemistry,3,ELECTRON CONFIG,64,False,2023-01-01,2023-01-01
+Rafferty,Russell,chemistry,3,ELECTRON CONFIG,93,False,2023-01-01,2023-01-15
+Jason,Ramirez,chemistry,3,ELECTRON CONFIG,29,False,2022-01-01,2022-01-15
+Fred,Fernando,chemistry,3,ELECTRON CONFIG,92,False,2022-01-01,2022-01-15
+杨作亮,AlexYang,chemistry,3,ELECTRON CONFIG,31,False,2023-01-01,2023-01-01
