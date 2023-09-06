@@ -14,7 +14,7 @@ Fred,Fernando,spanish,1,¡Hola! ¿Cómo se llama?,97,False,2022-01-01,2022-01-15
 Fred,Fernando,spanish,1,¡Hola! ¿Cómo se llama?,98,True,2022-01-01,2022-01-29
 杨作亮,AlexYang,spanish,1,¡Hola! ¿Cómo se llama?,77,False,2022-01-01,2022-01-15
 杨作亮,AlexYang,spanish,1,¡Hola! ¿Cómo se llama?,70,True,2022-01-01,2022-01-16
-Bill,Edwards,spanlish,2,¿A dónde vamos hoy?,87,False,2022-01-01,2022-01-01
+Bill,Edwards,spanglish,2,¿A dónde vamos hoy?,87,False,2022-01-01,2022-01-01
 David,Chen,spanish,2,¿A dónde vamos hoy?,68,False,2023-01-01,2023-01-15
 William,Chen,spanish,2,¿A dónde vamos hoy?,84,False,2022-01-01,2022-01-01
 Rafferty,Russell,spanish,2,¿A dónde vamos hoy?,76,False,2022-01-01,2022-01-01
@@ -29,12 +29,12 @@ Jason,Ramirez,spanish,3,Describe a tu familia,55,False,2023-01-01,2023-01-01
 Fred,Fernando,spanish,3,Describe a tu familia,92,False,2022-01-01,2022-01-15
 杨作亮,AlexYang,spanish,3,Describe a tu familia,76,False,2022-01-01,2022-01-15
 ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR,ERROR
-Bill,Edwards,spanish,4,"Verbos importantes: ser, estar, haber",83,False,2022-01-01,2022-01-15
-David,Chen,spanish,4,"Verbos importantes: ser, estar, haber",61,False,2023-01-01,2023-01-01
-David,Chen,spanish,4,"Verbos importantes: ser, estar, haber",Pass,False,2023-01-01,2023-01-01
-William,Chen,spanish,4,"Verbos importantes: ser, estar, haber",87,False,2022-01-01,2022-01-15
-Rafferty,Russell,spanish,4,"Verbos importantes: ser, estar, haber",71,False,2022-01-01,2022-01-15
-Jason,Ramirez,spanish,4,"Verbos importantes: ser, estar, haber",11,False,2022-01-01,2022-01-15
-Fred,Fernando,spanish,4,"Verbos importantes: ser, estar, haber",90,False,2022-01-01,2022-01-01
-杨作亮,AlexYang,spanish,4,"Verbos importantes: ser, estar, haber",76,False,2022-01-01,2022-01-01
+Bill,Edwards,spanish,4,Verbos importantes: ser, estar, haber,83,False,2022-01-01,2022-01-15
+David,Chen,spanish,4,Verbos importantes: ser, estar, haber,61,False,2023-01-01,2023-01-01
+David,Chen,spanish,4,Verbos importantes: ser, estar, haber,Pass,False,2023-01-01,2023-01-01
+William,Chen,spanish,4,Verbos importantes: ser, estar, haber,87,False,2022-01-01,2022-01-15
+Rafferty,Russell,spanish,4,Verbos importantes: ser, estar, haber,71,False,2022-01-01,2022-01-15
+Jason,Ramirez,spanish,4,Verbos importantes: ser, estar, haber,11,False,2022-01-01,2022-01-15
+Fred,Fernando,spanish,4,Verbos importantes: ser, estar, haber,90,False,2022-01-01,2022-01-01
+杨作亮,AlexYang,spanish,4,Verbos importantes: ser, estar, haber,76,False,2022-01-01,2022-01-01
 
