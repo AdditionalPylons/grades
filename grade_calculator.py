@@ -20,8 +20,8 @@ df['GPA'] = df[['FULL_NAME', 'CLASS_AVERAGE']].groupby(['FULL_NAME']).transform(
 # print(df)
 
 #Create filter out the common names and create the classes are columns with the values in the rows
-s = df.pivot_table(index='FULL_NAME', columns='CLASS', values='CLASS_AVERAGE')
-print(s)
+df = df.pivot(index=['FULL_NAME', 'GPA'], columns=['CLASS'], values=['CLASS_AVERAGE']).reset_index().rename_axis(None)
+print(df)
 # print(s.unstack(level=0))
 # print(df)
 
